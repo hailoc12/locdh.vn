@@ -15,9 +15,9 @@ GitHubLink: https://hailoc12.github.com/locdh.vn/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-	Loc 's Rabbit Hole
+  "Loc's Rabbit Hole"
 page_title:
-	"LocDH"
+  "Loc's Rabbit Hole"
 links:
   - link_name: Facebook
     link: https://facebook.com/danghailochp
