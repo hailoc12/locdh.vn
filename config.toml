@@ -1,6 +1,6 @@
 baseURL = "https://locdh.vn/"
 languageCode = "en-us"
-googleAnalytics = "G-XYFD95KB4J"
+googleAnalytics = "G-KRF9S3RPVT"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
