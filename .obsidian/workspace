@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "1637d7312d9a2188",
+    "type": "split",
+    "children": [
+      {
+        "id": "29d7b6101837b3d1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/_index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "794d4acb6f0ebb66",
+    "type": "split",
+    "children": [
+      {
+        "id": "9573e061289cde0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3333284bfc2253e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9aa62de38a7e57a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5628d3b75813f21d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21fffdc2effdaeab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91240ff1149914b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7285878918e97e8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/_index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28e0097e61e28543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afaae44b0a56a4fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9349b2418dd1665",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/_index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29d7b6101837b3d1",
+  "lastOpenFiles": [
+    "content/technology/Ứng xử như nào khi Trí tuệ nhân tạo làm tốt hơn con người?.md",
+    "Quan điểm về công nghệ và phát triển sản phẩm.md",
+    "content/_index.md",
+    "content/templates/post.md",
+    "CODE_OF_CONDUCT.md",
+    "README.md",
+    "screenshot.png"
+  ]
+}
