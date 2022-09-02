@@ -7,11 +7,9 @@
         "id": "29d7b6101837b3d1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "content/_index.md",
-            "mode": "source",
-            "source": false
+            "file": "content/technology/Pasted image 20220902232840.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/technology/Pasted image 20220902232840.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/technology/Pasted image 20220902232840.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/technology/Pasted image 20220902232840.png"
               }
             }
           }
@@ -128,14 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "29d7b6101837b3d1",
+  "active": "e3333284bfc2253e",
   "lastOpenFiles": [
     "content/technology/Ứng xử như nào khi Trí tuệ nhân tạo làm tốt hơn con người?.md",
-    "Quan điểm về công nghệ và phát triển sản phẩm.md",
-    "content/_index.md",
-    "content/templates/post.md",
-    "CODE_OF_CONDUCT.md",
+    "content/technology/Pasted image 20220902232840.png",
+    "content/technology/Quan điểm về công nghệ và phát triển sản phẩm.md",
+    "static/icon.png",
+    "content/technology/Pasted image 20220902233355.png",
+    "screenshot.png",
     "README.md",
-    "screenshot.png"
+    "Nghệ thuật lập trình.md",
+    "content/_index.md",
+    "content/templates/post.md"
   ]
 }
