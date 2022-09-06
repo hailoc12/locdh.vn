@@ -3,9 +3,9 @@ title: "Ứng xử như nào khi Trí tuệ nhân tạo làm tốt hơn con ngư
 ---
 
 Gần đây mình có sử dụng thử [MidJourney](https://www.midjourney.com/home/) - một dự án AI cho phép tạo ra các bức hình từ các đoạn mô tả bằng tiếng Anh. Kết quả thực sự đáng kinh ngạc! Chất lượng hình ảnh trả về không thua kém các họa sĩ chuyên nghiệp. Chưa kể AI còn mang đến những hình dung hoàn toàn mới lạ, ví dụ như tạo ra "Tháp Eiffel mọc cánh" (The Eiffel with wings) như kết quả dưới đây.
-![[technology/Pasted image 20220902233355.png]]
+![[Pasted image 20220902233355.png]]
 Một tác phẩm được tạo ra từ [MidJourney](https://www.midjourney.com/home/) thậm chí còn vượt mặt các nghệ sĩ con người và  [giành giải nhất tại một triển lãm tranh](https://vnexpress.net/ai-qua-mat-hoa-si-gianh-giai-ve-tranh-4506251.html) ở bang Colorado, Mỹ. 
-![[technology/Pasted image 20220902232840.png]]
+![[Pasted image 20220902232840.png]]
 
 Sự trỗi dậy của các công cụ vẽ tự động bằng AI như [MidJourney](https://www.midjourney.com/home/) đã tạo nên [làn sóng phản ứng mạnh mẽ từ giới họa sĩ](https://vnexpress.net/hoa-si-ghet-ai-ve-tranh-4501901.html). Một số lập luận thiên về việc chối bỏ khả năng AI có thể tiến tới trình độ thay thế lao động của họa sĩ chuyên nghiệp, một số lập luận khác thì chỉ trích AI sẽ giết chết nghệ thuật, hay AI đang tạo ra các sản phẩm xâm phạm bản quyền một cách tinh vi. 
 
